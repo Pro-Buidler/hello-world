@@ -7,8 +7,6 @@
 
 💞️ I’m looking to collaborate on building dAPPs
 
-📫 Reach me on michael.triply@gmail.com
-
 -[x] Setup Github account and repo
 
 -[ ] Learn AWS Lambda
