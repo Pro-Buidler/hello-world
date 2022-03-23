@@ -10,5 +10,7 @@
 📫 Reach me on michael.triply@gmail.com
 
 -[x] Setup Github account and repo
+
 -[ ] Learn AWS Lambda
+
 -[ ] Code Demo bot
